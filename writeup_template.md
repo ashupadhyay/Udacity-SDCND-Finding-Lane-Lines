@@ -10,6 +10,10 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 [image0]: ./test_images/solidWhiteCurve.jpg
 [image1]: ./test_images_output/solidWhiteCurve_step1_grayscale.jpg "Grayscale"
+[image2]: ./test_images_output/solidWhiteCurve_step2_gauss_smooth.jpg "Gauss"
+[image3]: ./test_images_output/solidWhiteCurve_step3_canny.jpg "Canny"
+[image4]: ./test_images_output/solidWhiteCurve_step4_region.jpg "Grayscale"
+[image5]: ./test_images_output/solidWhiteCurve_step5_hough.jpg "Grayscale"
 
 ---
 
