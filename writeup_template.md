@@ -27,19 +27,19 @@ The original Image looked like this,
 My pipeline consisted of 5 steps. First, I converted the images to grayscale, then I .... 
 
 Step1 : Convert to grayscale
-![alt text][image1]
+![alt text][image1 =250x]
 
 Step2 : Apply Gaussian Blur
-![alt text][image2]
+![alt text][image2 =250x]
 
 Step3 : Apply Canny Edge Detection
-![alt text][image3]
+![alt text][image3 =250x]
 
 Step4 : Select the region of interest
-![alt text][image4]
+![alt text][image4 =250x]
 
 Step5 : Apply probabilistic Hough transform to detect line segments
-![alt text][image5]
+![alt text][image5 =250x]
 
 In order to draw a single line on the left and right lanes, I modified the draw_lines() function by making a condition for detecting the slope for two different lines i.e. left and right.
 
